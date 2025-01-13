@@ -40,7 +40,7 @@ We are using the API endpoints provided by [JSONPlaceholder](https://jsonplaceho
 Clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/himanshuGaur684/KTOR-Client.git]
+git clone https://github.com/himanshuGaur684/KTOR-Client.git
 ```
 
 Navigate to the project directory:
